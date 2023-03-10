@@ -1,5 +1,5 @@
 <template>
-  <div>健康科普的内容</div>
+  <div>健康科普</div>
 </template>
 
 <script>
